@@ -1,5 +1,13 @@
 # 💫 About Me:
-### About Me :<br><br>🔭 I'm currently working on  <br>&nbsp;&nbsp;&nbsp;&nbsp;Cloud Grid (CNAPP with automated incident response) & BoomRoom<br><br>🤝 I'm looking to collaborate on  <br>&nbsp;&nbsp;&nbsp;&nbsp;Hackathons, cloud security projects, and AI-integrated web apps<br><br>🤲 I'm looking for help with  <br>&nbsp;&nbsp;&nbsp;&nbsp;Advanced OpenStack configurations and nested virtualization<br><br>🌱 I'm currently learning  <br>&nbsp;&nbsp;&nbsp;&nbsp;AWS (EC2, S3, IAM, Lambda), OpenStack, DSA in Java<br><br>💬 Ask me about  <br>&nbsp;&nbsp;&nbsp;&nbsp;Cloud computing, React, Flutter, building with Claude API, or hackathon strategy<br><br>⚡ Fun fact  <br>&nbsp;&nbsp;&nbsp;&nbsp;I've shipped 9+ projects in my first 2 years of college — and I'm just getting started
+### About Me :<br>
+Hey, I'm Abhishek 
+
+- 🔭 Currently building **CloudGrid** — a CNAPP dashboard using Amazon Bedrock/Claude for threat detection
+- 🌱 Learning Docker → Kubernetes, and DSA in Java
+- 🤝 Open to hackathons and cloud-security collabs
+- 🤖 Vibe-coding my way through builds with Lovable, Cursor, and Antigravity
+
+
 
 # 📊 GitHub Stats:
 <p align="center">
