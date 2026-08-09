@@ -1,5 +1,4 @@
 # 💫 About Me:
-### About Me :<br>
 Hey, I'm Abhishek 
 
 - 🔭 Currently building **CloudGrid** — a CNAPP dashboard using Amazon Bedrock/Claude for threat detection
