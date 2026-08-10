@@ -1,163 +1,69 @@
-::: {align="center"}
-
-ABhi-21me
-
-Cloud / DevOps Engineer in Training · AI-assisted Builder · Full-Stack Explorer
-
-:::
-
-🖥️ whoami
-
-┌──────────────────────────────────────────────────────────────────────┐
-│  abhi-21me@github:~$ whoami                                          │
-│                                                                      │
-│  abhi-21me                                                           │
-│  Cloud / DevOps engineer-in-training                                 │
-│                                                                      │
-│  abhi-21me@github:~$ cat bio.txt                                    │
-│                                                                      │
-│  Building cloud-native systems, AI-assisted products, and tools      │
-│  that solve practical problems.                                     │
-│                                                                      │
-│  abhi-21me@github:~$ echo $CURRENT_FOCUS                            │
-│                                                                      │
-│  AWS → Docker → Kubernetes → Linux → DevOps                          │
-│                                                                      │
-│  abhi-21me@github:~$ _                                               │
-└──────────────────────────────────────────────────────────────────────┘
-
-3rd-year B.Tech CSE @ GLA University, Mathura · Class of 2028Currently deepening AWS, Docker, Kubernetes and Linux forCloud/DevOps roles while building AI-assisted projects on the side.
-
-⚡ ./about-me
-
-$ cat about-me.md
-
-Engineer-in-training focused on Cloud + DevOps.
-I like shipping things, breaking them, fixing them,
-and learning why they broke.
-
-> open to: Cloud / DevOps internships
-> building with: Team HashHunters
-> currently exploring: AWS · Kubernetes · AI · Security
-
-🧰 ./skills
-
-Currently working with
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,js,ts,react,nodejs,python,java,firebase,vercel&theme=dark" />{=html}
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1120,100:14213D&text=Abhishek+Vishwakarma&fontColor=FF9900&fontSize=38&animation=fadeIn" width="100%" alt="banner" />
 </p>
-
-Currently learning
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=terraform,jenkins,ansible,nginx,bash,flutter&theme=dark" />{=html}
-
-</p>
-
-🎓 ./certifications
-
-[✓] Oracle Cloud Infrastructure — Foundations Associate
-[✓] Anthropic Academy — Claude with Amazon Bedrock
-[✓] Anthropic Academy — Claude with Google Cloud Vertex AI
-[~] AWS Academy — in progress
-[~] AWS Certified AI Practitioner — AIF-C01 preparation
-
-🚀 ./featured-projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-☁️ CloudGrid
-
-CNAPP security dashboard on AWS
-
-Threat-detection dashboard powered by AWS Bedrock + Claude 3 Haiku.
-
-AWS Bedrock Claude Security
-
-<a href="https://cloud-grid-nine.vercel.app/">{=html}↗ LiveDemo</a>{=html}
-
-</td>
-
-<td width="50%" valign="top">
-
-🎬 BingeBoard
-
-Universal binge-tracker Chrome extension
-
-TMDB-powered tracker with Continue Watching and a 50-badge gamificationsystem.
-
-JavaScript TMDB API Chrome Extension
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-🔖 BookmarkX
-
-AI-powered bookmark manager
-
-Automatic AI tagging, visibility controls and a custom appearance panel.
-
-JavaScript CSS AI
-
-</td>
-
-<td width="50%" valign="top">
-
-💡 Lumify
-
-AI-powered studio light for Windows
-
-A software light overlay that gives you studio-style illuminationwithout ring-light hardware.
-
-Python Windows AI
-
-</td>
-
-</tr>
-
-</table>
-
-🛠️ ./currently-building
-
-01  SafeRoute
-    └─ BLE-based women's-safety app · Flutter · Firebase
-       Team HashHunters · IntrusionX SE Hackathon
-
-02  ReelVault
-    └─ Android app for turning saved Instagram Reels
-       into a categorized resource library · Gemini multimodal API
-
-03  studyd
-    └─ DevOps study tracker that compares progress
-       against roadmap.sh
-
-04  Paisa Guru
-    └─ Conversational expense tracker with a Hinglish personality
-
-📈 ./contribution-activity
 
 <p align="center">
-
-<img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ABhi-21me&bg_color=000000&color=39ff88&line=22c55e&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    width="96%"
-    alt="ABhi-21me contribution activity graph"
-  />{=html}
-
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&center=true&width=520&height=50&duration=3000&pause=1000&color=22D3EE&lines=Cloud+and+DevOps+engineer+in+training;AI-assisted+builder+on+the+side;Shipping+CloudGrid+-+AWS+and+Claude" alt="Typing SVG" />
 </p>
+
+## 🧭 About
+
+Cloud/DevOps-focused engineer-in-training, currently deepening AWS and Kubernetes fundamentals while shipping AI-assisted builds on the side.
+
+<p align="center">
+  <img src="./terminal-hero.svg" alt="animated terminal: whoami, focus, status" width="680" />
+</p>
+
+3rd-year B.Tech CSE @ GLA University, Mathura · Class of 2028 — originally from Gorakhpur, UP. 🔭 Deepening Docker → Kubernetes → Linux for placement season · 🤝 Building with Team HashHunters · 📡 Open to Cloud/DevOps internship opportunities
+
+---
+
+## 🧰 Skills
+
+**Currently working with**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-DA7756?style=for-the-badge&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Currently learning**
+
+![Docker](https://img.shields.io/badge/Docker-in_progress-94A3B8?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-in_progress-94A3B8?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-deepening-94A3B8?style=flat-square)
+![DSA Java](https://img.shields.io/badge/DSA_(Java)-in_progress-94A3B8?style=flat-square)
+
+## 🎓 Certifications
+
+- ✅ OCI Foundations Associate
+- ✅ Anthropic Academy — Claude with Amazon Bedrock
+- ✅ Anthropic Academy — Claude with Google Cloud Vertex AI
+- 🔄 AWS Academy (in progress) → working toward AWS AI Practitioner (AIF-C01)
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**CloudGrid**](https://github.com/ABhi-21me/Cloud-Grid) ([live](https://cloud-grid-nine.vercel.app)) | CNAPP security dashboard on AWS — uses Bedrock + Claude 3 Haiku for threat detection, tested against SQLi, XSS, and SSH brute-force | AWS · Bedrock · Claude 3 Haiku |
+| [**BingeBoard**](https://github.com/ABhi-21me/BingeBoard) | Universal binge-tracker Chrome extension — 50-badge gamification system, TMDB-powered, Continue Watching | JavaScript · TMDB API |
+| [**BookmarkX**](https://github.com/ABhi-21me/BookmarkX---Chrome-Extension) | Bookmark manager extension with AI auto-tagging, a visibility toggle, and a custom appearance panel | JavaScript · CSS |
+| [**Lumify**](https://github.com/ABhi-21me/Lumify) | AI-powered studio light overlay for Windows — no ring-light hardware needed | Python |
+
+## 🛠️ Currently Building
+
+- **SafeRoute** — BLE-based women's-safety app (Flutter/Firebase), built with Team HashHunters for the IntrusionX SE hackathon
+- **ReelVault** — Android app that turns saved Instagram Reels into a categorized resource library, via Gemini's multimodal API
+- **studyd** — a DevOps study tracker that diffs your progress against roadmap.sh
+- **Paisa Guru** — a conversational expense tracker with a Hinglish personality
 
 📊 ./github-stats
 
@@ -184,36 +90,10 @@ Python Windows AI
   />{=html}
 
 </p>
+## 📮 Connect
 
-🧪 ./tech-stack
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABhi-21me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-vishwakarma-207975315/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek21vishwa@gmail.com)
 
-Cloud       AWS · OCI · Bedrock · Vercel
-DevOps      Docker · Kubernetes · Linux · Git · GitHub
-Languages   JavaScript · TypeScript · Python · Java
-Frontend    React · HTML · CSS
-Backend     Node.js · Firebase
-AI          Claude · Gemini · Bedrock
-Security    CNAPP · SQLi · XSS · SSH brute-force testing
 
-📮 ./links.sh
-
-$ ./links.sh
-
-GitHub    → https://github.com/ABhi-21me
-LinkedIn  → https://www.linkedin.com/in/abhishek-vishwakarma-207975315/
-Email     → abhishekj21vishva@gmail.com
-
-<p align="center">
-
-<a href="https://github.com/ABhi-21me">{=html}<img src="https://img.shields.io/badge/GitHub-ABhi--21me-39ff88?style=for-the-badge&logo=github&logoColor=000000" />{=html}</a>{=html}<a href="https://www.linkedin.com/in/abhishek-vishwakarma-207975315/">{=html}<img src="https://img.shields.io/badge/LinkedIn-Connect-39ff88?style=for-the-badge&logo=linkedin&logoColor=000000" />{=html}</a>{=html} <a href="mailto:abhishekj21vishva@gmail.com">{=html}<img src="https://img.shields.io/badge/Email-Say%20Hello-39ff88?style=for-the-badge&logo=gmail&logoColor=000000" />{=html}</a>{=html}
-
-</p>
-
-::: {align="center"}
-
-$ echo "Let's build something useful."
-Let's build something useful.
-
-Thanks for stopping by. 🚀
-
-:::
