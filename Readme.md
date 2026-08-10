@@ -8,8 +8,6 @@ Cloud/DevOps-focused engineer-in-training, currently deepening AWS and Kubernete
 
 3rd-year B.Tech CSE @ GLA University, Mathura · Class of 2028 — originally from Gorakhpur, UP. 🔭 Deepening Docker → Kubernetes → Linux for placement season · 🤝 Building with Team HashHunters · 📡 Open to Cloud/DevOps internship opportunities
 
----
-
 ## 🧰 Tech Arsenal
 
 ### ⚙️ Currently Working With
@@ -27,6 +25,9 @@ Cloud/DevOps-focused engineer-in-training, currently deepening AWS and Kubernete
 <img src="https://skillicons.dev/icons?i=terraform,jenkins,nginx,bash,java&perline=6" />
 
 </p>
+
+
+---
 
 
 ---
@@ -82,6 +83,27 @@ Cloud/DevOps-focused engineer-in-training, currently deepening AWS and Kubernete
 
 ---
 
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/ABhi-21me">
+<img src="https://img.shields.io/badge/GitHub-ABhi--21me-111111?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br/><br/>
+
+### `☁️ Build. Deploy. Break. Learn. Repeat. 🚀`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
+
+</div>
 ## 🤝 Let's Connect
 
 <div align="center">
