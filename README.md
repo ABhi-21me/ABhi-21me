@@ -10,20 +10,11 @@
 
 Cloud/DevOps-focused engineer-in-training, currently deepening AWS and Kubernetes fundamentals while shipping AI-assisted builds on the side.
 
-```bash
-abhi@devops:~$ whoami
-Abhishek Vishwakarma (Abhi)
+<p align="center">
+  <img src="./assets/terminal-hero.svg" alt="animated terminal: whoami, focus, status" width="680" />
+</p>
 
-abhi@devops:~$ cat focus.txt
-3rd-year B.Tech CSE @ GLA University, Mathura · Class of 2028
-Originally from Gorakhpur, UP
-70% Cloud & DevOps · 30% AI-assisted builder
-
-abhi@devops:~$ ./now.sh
-🔭 Deepening Docker -> Kubernetes -> Linux for placement season
-🤝 Building with Team HashHunters
-📡 Open to Cloud/DevOps internship opportunities
-```
+3rd-year B.Tech CSE @ GLA University, Mathura · Class of 2028 — originally from Gorakhpur, UP. 🔭 Deepening Docker → Kubernetes → Linux for placement season · 🤝 Building with Team HashHunters · 📡 Open to Cloud/DevOps internship opportunities
 
 ---
 
@@ -77,7 +68,7 @@ abhi@devops:~$ ./now.sh
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ABhi-21me&show_icons=true&hide_border=true&bg_color=0B1120&title_color=FF9900&icon_color=22D3EE&text_color=CBD5E1" width="49%" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ABhi-21me&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1120&title_color=FF9900&icon_color=22D3EE&text_color=CBD5E1" width="49%" alt="GitHub stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ABhi-21me&layout=compact&hide_border=true&bg_color=0B1120&title_color=FF9900&text_color=CBD5E1" width="41%" alt="Top languages" />
 </p>
 
