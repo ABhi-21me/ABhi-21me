@@ -11,7 +11,7 @@
 Cloud/DevOps-focused engineer-in-training, currently deepening AWS and Kubernetes fundamentals while shipping AI-assisted builds on the side.
 
 <p align="center">
-  <img src="./assets/terminal-hero.svg" alt="animated terminal: whoami, focus, status" width="680" />
+  <img src="./terminal-hero.svg" alt="animated terminal: whoami, focus, status" width="680" />
 </p>
 
 3rd-year B.Tech CSE @ GLA University, Mathura · Class of 2028 — originally from Gorakhpur, UP. 🔭 Deepening Docker → Kubernetes → Linux for placement season · 🤝 Building with Team HashHunters · 📡 Open to Cloud/DevOps internship opportunities
