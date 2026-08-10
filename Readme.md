@@ -1,9 +1,9 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Abhishek%20Vishwakarma&fontSize=42&fontColor=8B5CF6&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Abhishek%20Vishwakarma&fontSize=42&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Cloud+%2F+DevOps+Engineer-in-Training;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;Building+AI-assisted+systems;Turning+ideas+into+shippable+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Cloud+%2F+DevOps+Engineer-in-Training;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;Building+AI-assisted+systems;Turning+ideas+into+shippable+projects" />
 
 <br/>
 
