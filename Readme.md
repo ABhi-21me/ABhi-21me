@@ -1,379 +1,81 @@
-<div align="center">
-
-# Hey, I'm Abhi 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Cloud+%2F+DevOps+Engineer-in-Training;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;Building+AI-assisted+systems;Turning+ideas+into+shippable+projects" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ABhi-21me&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<a href="https://github.com/ABhi-21me">
-<img src="https://img.shields.io/github/followers/ABhi-21me?style=for-the-badge&logo=github&label=Followers&color=111111" />
-</a>
-&nbsp;
-<a href="https://github.com/ABhi-21me?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-8B5CF6?style=for-the-badge&logo=github" />
-</a>
-&nbsp;
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Available%20for-Internships-22C55E?style=for-the-badge" />
-</a>
-
-</div>
-
----
-
-## 🧭 `whoami`
-
-```bash
-$ whoami
-
-abhi@cloud-lab:~$ cat about.txt
-
-Cloud / DevOps engineer-in-training focused on building,
-deploying and securing modern cloud systems.
-
-🎓 3rd-year B.Tech CSE @ GLA University, Mathura
-📍 Originally from Gorakhpur, Uttar Pradesh
-☁️ Deepening AWS + Kubernetes fundamentals
-🐳 Docker → Kubernetes → Linux
-🤖 Building AI-assisted systems on the side
-🤝 Building with Team HashHunters
-📡 Open to Cloud / DevOps internship opportunities
-```
-
-> **My current mission:** turn cloud fundamentals into real systems that actually ship.
-
----
-
-## ⚡ Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### ☁️ Cloud & DevOps
-
-```text
-AWS
- ↓
-Linux
- ↓
-Docker
- ↓
-Kubernetes
- ↓
-CI/CD
- ↓
-Infrastructure
-```
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI + Engineering
-
-```text
-AI APIs
- ↓
-Cloud Services
- ↓
-Security
- ↓
-Automation
- ↓
-Real-world Products
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Tech Arsenal
-
-### ⚙️ Currently Working With
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,python,js,html,css,firebase,flutter&perline=6" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1120,100:14213D&text=Abhishek+Vishwakarma&fontColor=FF9900&fontSize=38&animation=fadeIn" width="100%" alt="banner" />
 </p>
 
-### 🧠 Currently Learning
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=terraform,jenkins,nginx,bash,java&perline=6" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&center=true&width=520&height=50&duration=3000&pause=1000&color=22D3EE&lines=Cloud+and+DevOps+engineer+in+training;AI-assisted+builder+on+the+side;Shipping+CloudGrid+-+AWS+and+Claude" alt="Typing SVG" />
 </p>
 
+## 🧭 About
+
+Cloud/DevOps-focused engineer-in-training, currently deepening AWS and Kubernetes fundamentals while shipping AI-assisted builds on the side.
+
+<p align="center">
+  <img src="./assets/terminal-hero.svg" alt="animated terminal: whoami, focus, status" width="680" />
+</p>
+
+3rd-year B.Tech CSE @ GLA University, Mathura · Class of 2028 — originally from Gorakhpur, UP. 🔭 Deepening Docker → Kubernetes → Linux for placement season · 🤝 Building with Team HashHunters · 📡 Open to Cloud/DevOps internship opportunities
+
 ---
+
+## 🧰 Skills
+
+**Currently working with**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-DA7756?style=for-the-badge&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Currently learning**
+
+![Docker](https://img.shields.io/badge/Docker-in_progress-94A3B8?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-in_progress-94A3B8?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-deepening-94A3B8?style=flat-square)
+![DSA Java](https://img.shields.io/badge/DSA_(Java)-in_progress-94A3B8?style=flat-square)
 
 ## 🎓 Certifications
 
-| Status | Certification                                              |
-| ------ | ---------------------------------------------------------- |
-| ✅      | OCI Foundations Associate                                  |
-| ✅      | Anthropic Academy — Claude with Amazon Bedrock             |
-| ✅      | Anthropic Academy — Claude with Google Cloud Vertex AI     |
-| 🔄     | AWS Academy — working toward AWS AI Practitioner (AIF-C01) |
+- ✅ OCI Foundations Associate
+- ✅ Anthropic Academy — Claude with Amazon Bedrock
+- ✅ Anthropic Academy — Claude with Google Cloud Vertex AI
+- 🔄 AWS Academy (in progress) → working toward AWS AI Practitioner (AIF-C01)
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**CloudGrid**](https://github.com/ABhi-21me/Cloud-Grid) ([live](https://cloud-grid-nine.vercel.app)) | CNAPP security dashboard on AWS — uses Bedrock + Claude 3 Haiku for threat detection, tested against SQLi, XSS, and SSH brute-force | AWS · Bedrock · Claude 3 Haiku |
+| [**BingeBoard**](https://github.com/ABhi-21me/BingeBoard) | Universal binge-tracker Chrome extension — 50-badge gamification system, TMDB-powered, Continue Watching | JavaScript · TMDB API |
+| [**BookmarkX**](https://github.com/ABhi-21me/BookmarkX---Chrome-Extension) | Bookmark manager extension with AI auto-tagging, a visibility toggle, and a custom appearance panel | JavaScript · CSS |
+| [**Lumify**](https://github.com/ABhi-21me/Lumify) | AI-powered studio light overlay for Windows — no ring-light hardware needed | Python |
+
+## 🛠️ Currently Building
+
+- **SafeRoute** — BLE-based women's-safety app (Flutter/Firebase), built with Team HashHunters for the IntrusionX SE hackathon
+- **ReelVault** — Android app that turns saved Instagram Reels into a categorized resource library, via Gemini's multimodal API
+- **studyd** — a DevOps study tracker that diffs your progress against roadmap.sh
+- **Paisa Guru** — a conversational expense tracker with a Hinglish personality
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ABhi-21me&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1120&title_color=FF9900&icon_color=22D3EE&text_color=CBD5E1" width="49%" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ABhi-21me&layout=compact&hide_border=true&bg_color=0B1120&title_color=FF9900&text_color=CBD5E1" width="41%" alt="Top languages" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-### ☁️ CloudGrid
-
-**CNAPP security dashboard on AWS**
-
-Threat detection platform using Bedrock + Claude 3 Haiku, tested against:
-
-`SQL Injection` · `XSS` · `SSH Brute Force`
-
-**Stack**
-
-`AWS` `Bedrock` `Claude 3 Haiku`
-
-<br/>
-
-<a href="https://github.com/ABhi-21me/Cloud-Grid">
-<img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://cloud-grid-nine.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🎬 BingeBoard
-
-**Universal binge-tracker Chrome extension**
-
-Track shows, continue watching and unlock a **50-badge gamification system** powered by TMDB.
-
-**Stack**
-
-`JavaScript` `TMDB API` `Chrome Extension`
-
-<br/>
-
-<a href="https://github.com/ABhi-21me/BingeBoard">
-<img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🔖 BookmarkX
-
-**AI-powered bookmark manager**
-
-Automatically categorizes bookmarks with AI, includes visibility controls and a custom appearance panel.
-
-**Stack**
-
-`JavaScript` `CSS` `Chrome Extension`
-
-<br/>
-
-<a href="https://github.com/ABhi-21me/BookmarkX---Chrome-Extension">
-<img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### 💡 Lumify
-
-**AI-powered studio lighting for Windows**
-
-A software-based studio light overlay designed to eliminate the need for physical ring-light hardware.
-
-**Stack**
-
-`Python`
-
-<br/>
-
-<a href="https://github.com/ABhi-21me/Lumify">
-<img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🛠️ Currently Building
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    ACTIVE BUILDS                             │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  🛡️  SafeRoute                                                │
-│      BLE-based women's safety application                     │
-│      Flutter + Firebase                                       │
-│      Team HashHunters · IntrusionX SE Hackathon               │
-│                                                              │
-│  🎞️  ReelVault                                                │
-│      Turn saved Instagram Reels into a resource library       │
-│      Android + Gemini Multimodal API                          │
-│                                                              │
-│  ☸️  studyd                                                   │
-│      DevOps study tracker                                     │
-│      Roadmap progress diffing against roadmap.sh              │
-│                                                              │
-│  💸  Paisa Guru                                               │
-│      Conversational expense tracker                           │
-│      Hinglish-first AI personality                            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 📊 GitHub Telemetry
-
-<div align="center">
-
-<a href="https://github.com/ABhi-21me">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ABhi-21me&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABhi-21me&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" />
-
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ABhi-21me&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
-
-</div>
-
----
-
-# 🐍 Contribution Matrix
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ABhi-21me/ABhi-21me/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-# 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABhi-21me&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ABhi-21me&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=4" />
-
-</div>
-
----
-
-## 🧩 The Developer Loop
-
-```text
-       ┌───────────────┐
-       │     IDEA      │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     BUILD     │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │   CONTAINER   │
-       │    Docker     │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │    DEPLOY     │
-       │ AWS / K8s     │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │   OBSERVE     │
-       │  LOGS / FIX   │
-       └───────┬───────┘
-               │
-               └──────────────→ 🔁
-```
-
----
-
-## 💭 Current Philosophy
-
-> **Don't just learn the tool. Build something with it.**
-
-```yaml
-learning:
-  cloud: AWS
-  containers: Docker
-  orchestration: Kubernetes
-  operating_system: Linux
-  automation: CI/CD
-  mindset: "Build → Break → Debug → Ship"
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/ABhi-21me">
-<img src="https://img.shields.io/badge/GitHub-ABhi--21me-111111?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<br/><br/>
-
-### `☁️ Build. Deploy. Break. Learn. Repeat. 🚀`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
-
-</div>
+## 📮 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABhi-21me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-vishwakarma-207975315/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek21vishwa@gmail.com)
