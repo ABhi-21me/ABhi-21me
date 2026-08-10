@@ -1,6 +1,17 @@
-# Hey, I'm Abhishek
+<!-- ================= HEADER ================= -->
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Abhishek%20Vishwakarma&fontSize=42&fontColor=FF9800&fontAlignY=65&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Cloud+%2F+DevOps+Engineer-in-Training;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;Building+AI-assisted+systems;Turning+ideas+into+shippable+projects" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ABhi-21me&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+
+</div>
+
 
 ## 🧭 About
 
@@ -70,16 +81,6 @@ Cloud/DevOps-focused engineer-in-training, currently deepening AWS and Kubernete
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ABhi-21me&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=4" />
-
-</div>
-
 
 ---
 
@@ -104,24 +105,6 @@ Cloud/DevOps-focused engineer-in-training, currently deepening AWS and Kubernete
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
 
 </div>
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/ABhi-21me">
-<img src="https://img.shields.io/badge/GitHub-ABhi--21me-111111?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<br/><br/>
-
-### `☁️ Build. Deploy. Break. Learn. Repeat. 🚀`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
+/capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
 
 </div>
